@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1021344279206",
+    "firebase_url": "https://iot-attendance-appln-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "iot-attendance-appln",
+    "storage_bucket": "iot-attendance-appln.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021344279206:android:73c8d64589fd5daa2a6267",
+        "android_client_info": {
+          "package_name": "com.example.attendance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021344279206-r5mmvaj90jhvleddha8c3tb3grie3duu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdU8BMm7tOO8w1SQuKsM_4ncnsovzs0RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021344279206-r5mmvaj90jhvleddha8c3tb3grie3duu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
